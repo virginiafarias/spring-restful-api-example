@@ -1,1 +1,1 @@
-# Exemplo de proejto para criação de uma API restful
+# Exemplo de projeto para criação de uma API restful
